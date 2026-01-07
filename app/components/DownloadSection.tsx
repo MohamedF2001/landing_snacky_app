@@ -18,7 +18,7 @@ const DownloadSection: React.FC = () => {
               📱 Télécharger l'APK (12.5 MB)
             </a> */}
             <a 
-              href="https://phenomenal-mooncake-1d902b.netlify.app/" 
+              href="https://snackyapp.netlify.app/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn btn-secondary btn-large"
