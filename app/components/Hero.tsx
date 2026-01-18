@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
               📱 Télécharger l'APK
             </a> */}
             <a 
-              href="https://snackyapp.netlify.app/" 
+              href="https://snackydash.netlify.app/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn btn-secondary"
